@@ -1,0 +1,24 @@
+.inicio{
+	background:#8A509E;
+}
+p,span{
+	color:#fff;
+
+}
+.boton{
+	width:200px;
+	height:50px;
+	background:#EC7D46;
+	margin:0 auto;
+	border-radius: 5px;
+	box-shadow: 2px 5px 2px #CA663B;
+}
+.tex{
+	margin-top: 50px;
+}
+.servicio{
+	background:#16C2A4;
+}
+b{
+	color:#fff;
+}
